@@ -1,0 +1,2 @@
+# valhalla-nmt
+Code repository for CVPR 2022 paper "VALHALLA: VISUAL HALLUCINATION FOR MACHINE TRANSLATION"
