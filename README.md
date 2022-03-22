@@ -1,1 +1,1 @@
-# VALHALLA: VISUAL HALLUCINATION FOR MACHINE TRANSLATION
+# VALHALLA: Visual Hallucination for Machine Translation
