@@ -171,7 +171,7 @@ def wit(
         root: root directory to WIT images
         split: train | val | test
     """
-    split_fn = f'mmt/{lang}/{split}_img-cleaned.txt'
+    split_fn = f'mmt/{lang}/{split}_img.txt'
     transform = get_transform(train='train' in split, **kwargs)
     anno = os.path.join(root, split_fn)
     
