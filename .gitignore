@@ -1,5 +1,6 @@
 # Project-specific ignores
-# data/
+/data/flickr30k
+/data/wit
 data-bin/
 checkpoints/
 tb-logs/
@@ -11,6 +12,7 @@ temp
 *.pth
 *.pkl
 *.ckpt
+*_private.md
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
