@@ -94,6 +94,8 @@ bash scripts/wit/train.sh -s [SRC] -t [TGT] -b [TOKENS] -w [VIS_CKP] -x [VIS_CFG
   - `-e`: Consistency loss weight (default: 0.5)
   - `-g`: Hallucination loss weight (default: 0.5)
 
+## Testing
+
 ### Evaluating VALHALLA models:
 ```sh
 # Multi30K
@@ -105,6 +107,10 @@ bash scripts/wit/test.sh -s [SRC] -t [TGT] -b [TOKENS]
 - Additional options:
   - `-g`: Multimodal inference, use ground-truth visual context from test images
   - `-k`: Average last K checkpoints
+
+## Pretrained models
+
+Pretrained models are available for download at[Models]().
 
 ## Pretrained Models
 
