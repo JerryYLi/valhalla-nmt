@@ -108,10 +108,6 @@ bash scripts/wit/test.sh -s [SRC] -t [TGT] -b [TOKENS]
   - `-g`: Multimodal inference, use ground-truth visual context from test images
   - `-k`: Average last K checkpoints
 
-## Pretrained models
-
-Pretrained models are available for download at[Models]().
-
 ## Pretrained Models
 
 Pretrained models are available for download at https://drive.google.com/drive/folders/1JGZURr9Ij4sBTqLOJJq0K-4J-g0mJPbr.
