@@ -1,8 +1,18 @@
-# VALHALLA: Visual Hallucination for Machine Translation
-
-[Project page](http://www.svcl.ucsd.edu/projects/valhalla/)
+# VALHALLA: Visual Hallucination for Machine Translation 
+[[ArXiv]](http://www.svcl.ucsd.edu/projects/valhalla/) [[Project Page]](http://www.svcl.ucsd.edu/projects/valhalla/)
 
 This repository contains code for CVPR'22 submission "VALHALLA: Visual Hallucination for Machine Translation".
+
+If you use the codes and models from this repo, please cite our work. Thanks!
+
+```
+@inproceedings{li2022valhalla,
+    title={{VALHALLA: Visual Hallucination for Machine Translation}},
+    author={Li, Yi and Panda, Rameswar and Kim, Yoon and Chen, Chun-Fu (Richard) and Feris, Rogerio and Cox, David and Vasconcelos, Nuno},
+    booktitle={The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    year={2022}
+}
+```
 
 ## Get started
 
@@ -84,7 +94,7 @@ bash scripts/wit/train.sh -s [SRC] -t [TGT] -b [TOKENS] -w [VIS_CKP] -x [VIS_CFG
   - `-e`: Consistency loss weight (default: 0.5)
   - `-g`: Hallucination loss weight (default: 0.5)
 
-Evaluating VALHALLA models:
+### Evaluating VALHALLA models:
 ```sh
 # Multi30K
 bash scripts/multi30k/test.sh -s [SRC] -t [TGT]
