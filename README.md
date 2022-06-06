@@ -110,7 +110,7 @@ bash scripts/wit/test.sh -s [SRC] -t [TGT] -b [TOKENS]
 
 ## Pretrained Models
 
-Pretrained models are available for download at [Releases page](https://github.com/JerryYLi/valhalla-nmt/releases/tag/v0.1-models).
+Pretrained models are available for download at [Releases page](https://github.com/JerryYLi/valhalla-nmt/releases/).
 
 ## Acknowledgements
 
