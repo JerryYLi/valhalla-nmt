@@ -110,9 +110,10 @@ bash scripts/wit/test.sh -s [SRC] -t [TGT] -b [TOKENS]
 
 ## Pretrained Models
 
-Pretrained models are available for download at https://drive.google.com/drive/folders/1JGZURr9Ij4sBTqLOJJq0K-4J-g0mJPbr.
+Pretrained models are available for download at [Releases page](https://github.com/JerryYLi/valhalla-nmt/releases/tag/v0.1-models).
 
 ## Acknowledgements
+
 This project is built on several open-source repositories/codebases, including:
 - [fairseq](https://github.com/pytorch/fairseq)
 - [Revisit-MMT](https://github.com/LividWo/Revisit-MMT)
