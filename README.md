@@ -1,5 +1,5 @@
 # VALHALLA: Visual Hallucination for Machine Translation 
-[[ArXiv]](http://www.svcl.ucsd.edu/projects/valhalla/) [[Project Page]](http://www.svcl.ucsd.edu/projects/valhalla/)
+[[arXiv]](https://arxiv.org/abs/2206.00100) [[Project Page]](http://www.svcl.ucsd.edu/projects/valhalla/)
 
 This repository contains code for CVPR'22 submission "VALHALLA: Visual Hallucination for Machine Translation".
 
